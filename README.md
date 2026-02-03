@@ -15,6 +15,10 @@ This project analyzes an E-Commerce dataset using **SQL and Python** to extract 
 - Top customers by yearly spending
 - Sales trends analysis
 - Order & payment analysis
+- <img width="746" height="775" alt="image" src="https://github.com/user-attachments/assets/4998ddc6-b736-4e52-b19e-540f7121e2f5" />
+<img width="672" height="665" alt="image" src="https://github.com/user-attachments/assets/290b23a7-bdb2-43a1-b4e4-210a70ea8676" />
+
+
 
 ## 📁 Dataset
 The dataset includes:
